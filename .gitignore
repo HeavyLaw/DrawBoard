@@ -1,0 +1,5 @@
+*.class
+/bin
+/.idea
+test
+._.DS_Store
